@@ -9,3 +9,6 @@ https://gaussian37.github.io/autodrive-lidar-open3d/
 
 C++ Cmake 관련 내용
 https://ladofa.blogspot.com/2020/09/c-3-cmake.html
+
+Pseudo lidar 논문
+https://cjung.tistory.com/13?category=949066
