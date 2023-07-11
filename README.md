@@ -12,3 +12,6 @@ https://ladofa.blogspot.com/2020/09/c-3-cmake.html
 
 Pseudo lidar 논문
 https://cjung.tistory.com/13?category=949066
+
+ROS PCL : Voxelize
+https://saint-swithins-day.tistory.com/43
