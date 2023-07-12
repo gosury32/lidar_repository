@@ -1,0 +1,6 @@
+roslaunch xsens_mti_driver display.launch
+roslaunch xsens_mti_driver xsens_mti_node.launch
+
+pcl-pcl-1.13.1
+https://blog.naver.com/PostView.naver?blogId=iphone7743&logNo=222300448218&parentCategoryNo=&categoryNo=22&viewDate=&isShowPopularPosts=true&from=search
+
