@@ -15,3 +15,6 @@ https://cjung.tistory.com/13?category=949066
 
 ROS PCL : Voxelize
 https://saint-swithins-day.tistory.com/43
+
+IMU 안쓰고 Localization한 논문
+https://www-dbpia-co-kr.libproxy.dgist.ac.kr/pdf/pdfView.do?nodeId=NODE07187570
