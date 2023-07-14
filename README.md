@@ -19,3 +19,7 @@ https://saint-swithins-day.tistory.com/43
 IMU 안쓰고 Localization한 논문
 내부 센서와 저가형 GPS를 이용한 자율주행차량의 위치 추정
 https://www-dbpia-co-kr.libproxy.dgist.ac.kr/pdf/pdfView.do?nodeId=NODE07187570
+
+매우 완성도 있는 gitbook 두개
+https://bigbigpark.github.io/tags/#point-cloud
+https://pcl.gitbook.io/tutorial/part-1/part01-chapter01-filtering
